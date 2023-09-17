@@ -6,7 +6,7 @@
   [
   {"name": "live",
   "type": 0,
-  "url":"https://jihulab.com/zxc2/kw/-/raw/main/v_%E5%8A%A0%E5%AF%86%E7%A0%81_1.txt",
+  "url":"https://jihulab.com/zxc2/ys/-/raw/main/v_%E5%8A%A0%E5%AF%86%E7%A0%81_1.txt",
   "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
   }
   ],
