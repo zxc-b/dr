@@ -1,14 +1,14 @@
 {
-  "spider": "./lib/api.jar;md5;5c497cae38522e64961e061cace5be95",
-  "spider": "./lib/Yoursmile.jar;md5;DA553CABC9A4E1F4577D1DEFCAA3AB28",
+  "spider": "https://pan.shangui.cc/f/15K2Iw/api.jar;md5;5c497cae38522e64961e061cace5be95",
+  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DA553CABC9A4E1F4577D1DEFCAA3AB28",
  
   "wallpaper": "https://tool.weetai.cn/api",
-  "spider": "./lib/Yoursmile2.jar",
+  "spider": "https://pan.shangui.cc/f/vDX3Fk/Yoursmile2.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
   "lives": [
     {
       "name": "live",
-      "url": "./lib/v（加密码）1.txt",
+      "url": "https://pan.shangui.cc/f/10bzTw/v%EF%BC%88%E5%8A%A0%E5%AF%86%E7%A0%81%EF%BC%891.txt",
       "type": 0,
       "playerType": 1,
       "ua": "okhttp/3.12.13",
@@ -22,15 +22,15 @@
       "key": "搜索┃豆瓣js",
       "name": "📛TH┃挺好专享【2023-08-24更新接口，长按主页刷新】",
       "type": 3,
-      "api": "./lib/apiv65drpy2.min.js",
-      "ext": "./lib/douban.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
+      "ext": "https://pan.shangui.cc/f/54MbUA/douban.js"
     },
     {
     "key": "直播转点播",
     "name": "📛TH┃福利点播",
     "type": 3,
-    "api": "./lib/apiv83直播转点播2.js?sign=xMh0sTTPC8ojlcxFuPPdSwRlla4XIZ8sPC3OUoFq_AE=:0",
-    "ext": "./lib/dbiptv69.json"
+    "api": "http://52bsj.vip:81/api/v3/file/get/154864/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD2.js?sign=xMh0sTTPC8ojlcxFuPPdSwRlla4XIZ8sPC3OUoFq_AE%3D%3A0",
+    "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/dbiptv69.json"
     },
         {
       "key": "csp_WoGG",
@@ -40,7 +40,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/fan711.jar"
+      "jar": "https://pan.shangui.cc/f/lkM3ck/fan711.jar"
     },
     {
       "key": "yunyun",
@@ -50,7 +50,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/云云.json",
+      "ext": "https://pan.shangui.cc/f/ka2ETR/%E4%BA%91%E4%BA%91.json",
       "jar": "https://pan.shangui.cc/f/y76EsK/%E5%B0%8F%E6%9A%B4%E8%84%BE%E6%B0%948.jar"
     },
     {
@@ -82,7 +82,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./lib/fan711.jar"
+      "jar": "https://pan.shangui.cc/f/lkM3ck/fan711.jar"
     },
         {
             "key": "csp_fantuan",
@@ -93,7 +93,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.fantuan3.com",
-            "jar": "./lib/box.jar;md5;0A4B198EEC040AB9088F865A169BD04B"
+            "jar": "http://api.wemtime.com/TVBOX/box.jar;md5;0A4B198EEC040AB9088F865A169BD04B"
         },
     {
       "key": "YQK",
@@ -112,7 +112,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.lgyy.vip",
-            "jar": "./lib/box.jar;md5;0A4B198EEC040AB9088F865A169BD04B"
+            "jar": "http://api.wemtime.com/TVBOX/box.jar;md5;0A4B198EEC040AB9088F865A169BD04B"
         },
     {
       "key": "纸条",
@@ -122,7 +122,7 @@
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "jar": "./lib/ali.jar"
+      "jar": "https://pan.shangui.cc/f/8VKpHo/ali.jar"
     },
     {
       "key": "PanSearch",
@@ -212,7 +212,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/新香蕉超清资源.json"
+      "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉超清资源.json"
     },
     {
        "key": "csp_xBPQ_香蕉国产",
@@ -222,7 +222,7 @@
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 0,
-       "ext": "./lib/新香蕉国产传媒.json"
+       "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉国产传媒.json"
      },
      {
        "key": "csp_xBPQ_香蕉久久热",
@@ -232,7 +232,7 @@
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 0,
-       "ext": "./lib/新香蕉久久热.json"
+       "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉久久热.json"
       },
       {
         "key": "csp_xBPQ_香蕉废柴",
@@ -242,7 +242,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "./lib/新香蕉废柴网.json"
+        "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉废柴网.json"
       },
       {
         "key": "csp_xBPQ_香蕉直播",
@@ -252,7 +252,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "./lib/新香蕉实时直播.json"
+        "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉实时直播.json"
       },
       {
         "key": "csp_xBPQ_香蕉搜索",
@@ -262,7 +262,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 0,
-        "ext": "./lib/香蕉搜索.json"
+        "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/香蕉搜索.json"
      },
       {"key":"*大地资源","name":"🏆大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
 
@@ -340,7 +340,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }","jar":"./lib/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar"
+"ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }","jar":"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar"
 },
 
     {
