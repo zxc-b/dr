@@ -330,7 +330,7 @@
     },
     {
       "key": "龟龟",
-      "name": "📛TH┃龟龟影视",
+      "name": "龟龟影视",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -355,7 +355,7 @@
 	  
     {
       "key": "看看",
-      "name": "📛TH┃看看影视",
+      "name": "看看影视",
       "type": 3,
       "playerType": "1",
       "changeable": 0,
@@ -478,7 +478,7 @@
     },
     {
       "key": "土豪",
-      "name": "📛TH┃土豪影视",
+      "name": "土豪影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -502,7 +502,7 @@
  
     {
       "key": "新片热播",
-      "name": "📛TH┃新片热播",
+      "name": "新片热播",
       "type": 1,
       "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -515,7 +515,7 @@
     },
      {
       "key": "csp_lezhu",
-      "name": "📛TH┃乐猪影视",
+      "name": "乐猪影视",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -525,7 +525,7 @@
       },   
     {
       "key": "app_轻简",
-      "name": "📛TH┃轻简影视",
+      "name": "轻简影视",
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "categories": [
@@ -537,7 +537,7 @@
     },
     {
       "key": "csp_mdd",
-      "name": "📛TH┃蛋蛋影视",
+      "name": "蛋蛋影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -547,7 +547,7 @@
     },
 {
       "key": "csp_奇优",
-      "name": "📛TH┃奇优影院",
+      "name": "奇优影院",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -557,7 +557,7 @@
     },
     {
       "key": "csp_非凡资源",
-      "name": "📛TH┃非凡资源",
+      "name": "非凡资源",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -594,7 +594,7 @@
     },
     {
       "key": "量子资源",
-      "name": "📛TH┃量子资源",
+      "name": "量子资源",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -620,7 +620,7 @@
     },
  {
       "key": "csp_CZSPP",
-      "name": "📛TH┃厂长资源",
+      "name": "厂长资源",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -629,7 +629,7 @@
     },
     {
       "key": "csp_MeiJu69",
-      "name": "📛TH┃六九美剧",
+      "name": "六九美剧",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -639,7 +639,7 @@
     },
     {
       "key": "csp_Zxzj",
-      "name": "📛TH┃在线之家",
+      "name": "在线之家",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -649,7 +649,7 @@
     },
     {
       "key": "Kuaikan",
-      "name": "📛TH┃快看影视",
+      "name": "快看影视",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -658,7 +658,7 @@
     },
     {
       "key": "csp_Dy1010",
-      "name": "📛TH┃双十影院",
+      "name": "双十影院",
       "type": 3,
       "api": "csp_Dy1010",
       "searchable": 1,
@@ -667,7 +667,7 @@
     },
     {
       "key": "csp_AppMr",
-      "name": "📛TH┃二明影视",
+      "name": "二明影视",
       "type": 3,
       "api": "csp_AppMr",
       "searchable": 1,
@@ -676,7 +676,7 @@
     },
     {
       "key": "csp_胖虎",
-      "name": "📛TH┃胖虎影视",
+      "name": "胖虎影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -686,7 +686,7 @@
     },
  {
       "key": "csp_Vofl",
-      "name": "🧿TH┃VoFl资源",
+      "name": "VoFl资源",
       "type": 3,
       "api": "csp_Voflix",
       "searchable": 1,
@@ -695,7 +695,7 @@
     },
     {
       "key": "drpy_js_创艺",
-      "name": "🍸️TH┃创艺影视",
+      "name": "创艺影视",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -705,7 +705,7 @@
     },
  {
       "key": "zy_新浪",
-      "name": "🏄🏻TH┃新浪资源",
+      "name": "新浪资源",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -735,7 +735,7 @@
     },
     {
       "key": "api_xml_搜糊",
-      "name": "️🦊┃搜糊┃影视",
+      "name": "️搜糊┃影视",
       "type": 1,
       "api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/",
       "playUrl": "https://jx.777jiexi.com/player/?url=",
@@ -768,7 +768,7 @@
 
     {
       "key": "csp_野荷塘",
-      "name": "🐸TH┃荷塘影视",
+      "name": "荷塘影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -778,7 +778,7 @@
     },
     {
       "key": "js_Xinsj",
-      "name": "🐠TH┃视觉影院",
+      "name": "视觉影院",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -788,7 +788,7 @@
     },
     {
       "key": "py_cctv",
-      "name": "❤️TH┃央视大全",
+      "name": "央视大全",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
@@ -798,7 +798,7 @@
     },
     {
       "key": "csp_Ysgc",
-      "name": "🎬️TH┃影视工厂",
+      "name": "影视工厂",
       "type": 3,
       "api": "csp_Ysgc",
       "searchable": 1,
@@ -808,7 +808,7 @@
     },
     {
       "key": "csp_骚火",
-      "name": "🔥TH┃骚火电影",
+      "name": "骚火电影",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -818,7 +818,7 @@
     },
     {
       "key": "js_酷狗MV",
-      "name": "🎻TH┃酷狗音乐",
+      "name": "酷狗音乐",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -828,7 +828,7 @@
     },
     {
       "key": "js_a8音乐",
-      "name": "🎸TH┃奥迪音乐",
+      "name": "奥迪音乐",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -838,7 +838,7 @@
     },
     {
       "key": "csp_酷奇",
-      "name": "🎤TH┃酷奇音乐",
+      "name": "酷奇音乐",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 0,
@@ -848,7 +848,7 @@
     },
     {
       "key": "csp_Anime1",
-      "name": "🌸TH┃动漫系列",
+      "name": "动漫系列",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
@@ -857,7 +857,7 @@
     },
     {
       "key": "js路漫漫",
-      "name": "👩‍🎨TH┃漫漫动漫",
+      "name": "漫漫动漫",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 0,
@@ -867,7 +867,7 @@
     },
     {
       "key": "去看动漫",
-      "name": "🎊TH┃去看动漫",
+      "name": "去看动漫",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -877,7 +877,7 @@
     },
     {
       "key": "动漫直链",
-      "name": "🎭TH┃动漫直链",
+      "name": "动漫直链",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -887,7 +887,7 @@
     },
     {
       "key": "csp_风车动漫",
-      "name": "🍭TH┃风车动漫",
+      "name": "风车动漫",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -897,7 +897,7 @@
     },
     {
       "key": "csp_动漫巴士",
-      "name": "🤖TH┃动漫巴士",
+      "name": "动漫巴士",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -907,7 +907,7 @@
     },
     {
       "key": "py_qie",
-      "name": "🏀TH┃企鹅体育",
+      "name": "企鹅体育",
       "type": 3,
       "api": "py_qie",
       "searchable": 0,
@@ -917,7 +917,7 @@
     },
     {
       "key": "csp_鹅直播",
-      "name": "🏀TH┃企鹅直播",
+      "name": "企鹅直播",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -927,7 +927,7 @@
     },
     {
       "key": "csp_17看球",
-      "name": "⚽TH┃一起直播",
+      "name": "一起直播",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -937,7 +937,7 @@
     },
     {
       "key": "js_88看球",
-      "name": "🏀TH┃八八看球",
+      "name": "八八看球",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 0,
@@ -947,7 +947,7 @@
     },
     {
       "key": "py_dashan",
-      "name": "💋TH┃搭讪教程",
+      "name": "搭讪教程",
       "type": 3,
       "api": "py_dashan",
       "searchable": 0,
@@ -957,7 +957,7 @@
     },
     {
       "key": "py_dapei",
-      "name": "💃TH┃搭配教程",
+      "name": "搭配教程",
       "type": 3,
       "api": "py_dapei",
       "searchable": 0,
@@ -967,7 +967,7 @@
     },
     {
       "key": "js_B站精简",
-      "name": "🅱️TH┃哔哩精简",
+      "name": "哔哩精简",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 0,
@@ -977,7 +977,7 @@
     },
     {
       "key": "py_meishi",
-      "name": "🅱️TH┃美食合集",
+      "name": "美食合集",
       "type": 3,
       "api": "py_meishi",
       "searchable": 0,
@@ -987,7 +987,7 @@
     },
     {
       "key": "py_youer",
-      "name": "🅱️┃幼儿教育",
+      "name": "幼儿教育",
       "type": 3,
       "api": "py_youer",
       "searchable": 0,
@@ -997,7 +997,7 @@
     },
     {
       "key": "py_xiaoxue",
-      "name": "🅱️TH┃小学教育",
+      "name": "小学教育",
       "type": 3,
       "api": "py_xiaoxue",
       "searchable": 0,
@@ -1007,7 +1007,7 @@
     },
     {
       "key": "py_czxx",
-      "name": "🅱️TH┃初中教育",
+      "name": "初中教育",
       "type": 3,
       "api": "py_czxx",
       "searchable": 0,
@@ -1017,7 +1017,7 @@
     },
     {
       "key": "py_gaozxx",
-      "name": "🅱️TH┃高中教育",
+      "name": "高中教育",
       "type": 3,
       "api": "py_gaozxx",
       "searchable": 0,
@@ -1027,7 +1027,7 @@
     },
     {
       "key": "py_zyy",
-      "name": "🅱️TH┃中医药区",
+      "name": "中医药区",
       "type": 3,
       "api": "py_zyy",
       "searchable": 0,
@@ -1037,7 +1037,7 @@
     },
     {
       "key": "py_xuqu1",
-      "name": "🅱️TH┃戏曲合集",
+      "name": "戏曲合集",
       "type": 3,
       "api": "py_xuqu1",
       "searchable": 0,
@@ -1047,7 +1047,7 @@
     },
     {
       "key": "py_TYjs",
-      "name": "🅱️TH┃体育健身",
+      "name": "体育健身",
       "type": 3,
       "api": "py_TYjs",
       "searchable": 0,
@@ -1057,7 +1057,7 @@
     },
     {
       "key": "py_xiangsh",
-      "name": "🅱️TH┃相声小品",
+      "name": "相声小品",
       "type": 3,
       "api": "py_xiangsh",
       "searchable": 0,
@@ -1067,7 +1067,7 @@
     },
     {
       "key": "py_FBqx",
-      "name": "🅱️TH┃球队球星",
+      "name": "球队球星",
       "type": 3,
       "api": "py_FBqx",
       "searchable": 0,
@@ -1077,7 +1077,7 @@
     },
     {
       "key": "py_Meinvw",
-      "name": "🅱️TH┃美女舞蹈",
+      "name": "美女舞蹈",
       "type": 3,
       "api": "py_Meinvw",
       "searchable": 0,
@@ -1087,7 +1087,7 @@
     },
     {
       "key": "py_yanchh",
-      "name": "🅱️TH┃歌手合集",
+      "name": "歌手合集",
       "type": 3,
       "api": "py_yanchh",
       "searchable": 0,
@@ -1097,7 +1097,7 @@
     },
     {
       "key": "py_Nvtuan",
-      "name": "🅱️TH┃女团热舞",
+      "name": "女团热舞",
       "type": 3,
       "api": "py_Nvtuan",
       "searchable": 0,
@@ -1107,7 +1107,7 @@
     },
     {
       "key": "py_MTV",
-      "name": "🅱️TH┃歌曲视频",
+      "name": "歌曲视频",
       "type": 3,
       "api": "py_MTV",
       "searchable": 0,
@@ -1117,7 +1117,7 @@
     },
     {
       "key": "py_Yinl2",
-      "name": "🅱️TH┃音悦合集",
+      "name": "音悦合集",
       "type": 3,
       "api": "py_Yinl2",
       "searchable": 0,
@@ -1127,7 +1127,7 @@
     },
     {
       "key": "js_哔哩直播",
-      "name": "🅱️TH┃哔哩直播",
+      "name": "哔哩直播",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 0,
@@ -1137,7 +1137,7 @@
     },
     {
       "key": "js_斗鱼直播",
-      "name": "🦈TH┃斗鱼直播",
+      "name": "斗鱼直播",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 0,
@@ -1147,7 +1147,7 @@
     },
     {
       "key": "网易CC",
-      "name": "🐠TH┃网易[CC]",
+      "name": "网易[CC]",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -1157,7 +1157,7 @@
     },
     {
       "key": "csp_dadagui",
-      "name": "🐢TH┃达龟影视",
+      "name": "达龟影视",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -1167,7 +1167,7 @@
     },
     {
       "key": "csp_TVB",
-      "name": "🌤TH┃TVB云播",
+      "name": "TVB云播",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1177,7 +1177,7 @@
     },
     {
       "key": "csp_金眼",
-      "name": "🌟TH┃金眼影视",
+      "name": "金眼影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -1187,7 +1187,7 @@
     },
   {
       "key": "csp_Bili",
-      "name": "📛TH┃哔哩合集",
+      "name": "哔哩合集",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -1197,7 +1197,7 @@
     },
      {
       "key": "push_agent",
-      "name": "📛TH┃影视推送",
+      "name": "影视推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
@@ -1207,49 +1207,49 @@
       },
 	{
 	"key": "歌手_MV",
-	"name": "🎵TH┃歌手MV",
+	"name": "歌手MV",
 	"type": 1,
 	"api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
 	"searchable": 0
 	},
 	{
 	"key": "drpy_A8音乐",
-	"name": "🎵TH┃明星演唱会",
+	"name": "明星演唱会",
 	"type": 3,
 	"searchable": 0,
 	"api": "https://gitee.com/zhen169/ikdd/raw/master/drpy.min.js",
 	"ext": "http://shuyuan.miaogongzi.net/shuyuan/1687339319.json"
 	},
-{"key":"csp_XYQHiker素白白","name":"🐛TH┃素白白嗅探","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://itvbox.cc/tvbox/云星日记/sh/MaooXB/素白白.json","jar":"http://itvbox.cc/tvbox/云星日记/jar/Hk.jar;md5;566e51fb1be76de5f1de4f6b6cdb1a65"},
-{"key": "圣城影视","name": "🐛TH┃圣城影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "http://itvbox.cc/tvbox/云星日记/sh/MaooXB/圣城影视xbpq.json"},
-{"key":"Vidhub","name":"🐛TH┃Vidhub影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://itvbox.cc/tvbox/云星日记/sh/MaooXB/Vidhub.json"},	  
-{"key": "有声小说js","name": "🎧TH┃有声小说","type": 3,"api": "http://xhww.fun:63/js/drpy1.min.js","ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","searchable": 0,"quickSearch": 0,"changeable": 0},
-{"key":"csp_Yj1211","name":"📱TH┃游戏直播〔SP〕","type":3,"api":"csp_Yj1211","searchable": 1,"quickSearch":1,"filterable":1},
+{"key":"csp_XYQHiker素白白","name":"素白白嗅探","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://itvbox.cc/tvbox/云星日记/sh/MaooXB/素白白.json","jar":"http://itvbox.cc/tvbox/云星日记/jar/Hk.jar;md5;566e51fb1be76de5f1de4f6b6cdb1a65"},
+{"key": "圣城影视","name": "圣城影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "http://itvbox.cc/tvbox/云星日记/sh/MaooXB/圣城影视xbpq.json"},
+{"key":"Vidhub","name":"Vidhub影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://itvbox.cc/tvbox/云星日记/sh/MaooXB/Vidhub.json"},	  
+{"key": "有声小说js","name": "有声小说","type": 3,"api": "http://xhww.fun:63/js/drpy1.min.js","ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","searchable": 0,"quickSearch": 0,"changeable": 0},
+{"key":"csp_Yj1211","name":"游戏直播〔SP〕","type":3,"api":"csp_Yj1211","searchable": 1,"quickSearch":1,"filterable":1},
 {"key": "csp_XPath_企鹅体育","name": "🐧企鹅体育","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://我不是.肥猫.love:63/json/企鹅直播.json"},
-{"key": "csp_Bili1","name": "🅱️TH┃哔哩合集1","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 1,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩合集.json"},
+{"key": "csp_Bili1","name": "哔哩合集1","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 1,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩合集.json"},
 //{"key": "csp_Bili2","name": "🅱️TH┃哔哩合集2","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 1,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩合集2.json"},
-{"key": "软件","name": " 🖤TH┃软件教程","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/软件教程.json"},
+{"key": "软件","name": "软件教程","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/软件教程.json"},
 //{"key": "歌舞","name": "💃TH┃印度歌舞","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/印度歌舞.json"},
-{"key": "小姐姐","name": "💃TH┃哔哩小姐姐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩xjj.json"},
-{"key": "车模","name": "💃TH┃哔哩车模","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩车模.json"},
-{"key": "舞蹈","name": "🎗️TH┃哔哩舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱舞蹈.json"},
-{"key": "演唱会自定义","name": "🌈TH┃演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱演唱会.json"},
-{"key": "MV","name": "🌈TH┃哔哩MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱MTV.json"},
-{"key": "戏曲自定义","name": "📺TH┃哔哩戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱戏曲.json"},
-{"key": "解说","name": "⚽️TH┃电影解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱影视解说.json"},
-{"key": "球类","name": "⚽️TH┃球球合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱球球.json"},
-{"key": "美食","name": " 🧡TH┃美食合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱美食.json"},
-{"key": "棋牌","name": " 💔TH┃棋牌合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱棋牌.json"},
-{"key": "UP主","name": " 🖤TH┃UP主机","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱UP主.json"},
-{"key": "PS","name": "🎉TH┃PS教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩PS.json"},
-{"key": "外语","name": "🏠TH┃外语学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩外语.json"},
-{"key": "学堂","name": "🍉TH┃学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱学堂.json"},
-{"key": "EXCEL","name": "🏢TH┃Excel学堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱Excel教程.json"},
-{"key": "足球","name": "⚽️TH┃足球合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱球星.json"},
-{"key": "体育","name": "💋TH┃哔哩体育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱体育.json"},
+{"key": "小姐姐","name": "哔哩小姐姐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩xjj.json"},
+{"key": "车模","name": "哔哩车模","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩车模.json"},
+{"key": "舞蹈","name": "哔哩舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱舞蹈.json"},
+{"key": "演唱会自定义","name": "演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱演唱会.json"},
+{"key": "MV","name": "哔哩MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱MTV.json"},
+{"key": "戏曲自定义","name": "哔哩戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱戏曲.json"},
+{"key": "解说","name": "电影解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱影视解说.json"},
+{"key": "球类","name": "球球合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱球球.json"},
+{"key": "美食","name": "美食合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱美食.json"},
+{"key": "棋牌","name": "棋牌合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱棋牌.json"},
+{"key": "UP主","name": "UP主机","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱UP主.json"},
+{"key": "PS","name": "PS教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩PS.json"},
+{"key": "外语","name": "外语学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩外语.json"},
+{"key": "学堂","name": "学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱学堂.json"},
+{"key": "EXCEL","name": "Excel学堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱Excel教程.json"},
+{"key": "足球","name": "足球合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱球星.json"},
+{"key": "体育","name": "哔哩体育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://itvbox.cc/tvbox/云星日记/sh/Bilibili/吾爱体育.json"},
     {
       "key": "小灯塔科学",
-      "name": "🌏TH┃小灯塔科学",
+      "name": "小灯塔科学",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1259,7 +1259,7 @@
     },
     {
       "key": "小灯塔地理",
-      "name": "🌏TH┃小灯塔地理",
+      "name": "小灯塔地理",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1269,7 +1269,7 @@
     },
     {
       "key": "小灯塔百科",
-      "name": "🌏TH┃小灯塔百科",
+      "name": "小灯塔百科",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1279,7 +1279,7 @@
     },
     {
       "key": "小灯塔国学",
-      "name": "🌏TH┃小灯塔国学",
+      "name": "小灯塔国学",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1291,11 +1291,11 @@
 //爬虫资源
 
 
-{"key":"dr_兔小贝","name":"📚TH┃儿童启蒙","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"少儿教育","name":"📚TH┃少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.top/x/json/少儿教育.json"},
-{"key":"小学课堂","name":"📚TH┃小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.top/x/json/小学课堂.json"},
-{"key":"初中课堂","name":"📚TH┃初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.top/x/json/初中课堂.json"},
-{"key":"高中教育","name":"📚TH┃高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.top/x/json/高中课堂.json"}
+{"key":"dr_兔小贝","name":"儿童启蒙","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"少儿教育","name":"少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.top/x/json/少儿教育.json"},
+{"key":"小学课堂","name":"小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.top/x/json/小学课堂.json"},
+{"key":"初中课堂","name":"初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.top/x/json/初中课堂.json"},
+{"key":"高中教育","name":"高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://饭太硬.top/x/json/高中课堂.json"}
 
   ],
 
@@ -1452,6 +1452,34 @@
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
     },
+{
+        "name": " 🥣盖碗解析",
+              "type": 1,
+                    "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
+                          "ext": {
+                                  "flag": [
+                                            "qiyi",
+                                                      "爱奇艺",
+                                                                "奇艺",
+                                                                          "youku",
+                                                                                    "优酷",
+                                                                                              "mgtv",
+                                                                                                        "芒果",
+                                                                                                                  "letv",
+                                                                                                                            "乐视",
+                                                                                                                                      "pptv",
+                                                                                                                                                "PPTV",
+                                                                                                                                                          "sohu",
+                                                                                                                                                                    "xigua",
+                                                                                                                                                                              "bilibili",
+                                                                                                                                                                                        "哔哩哔哩",
+                                                                                                                                                                                                  "哔哩"
+                                                                                                                                                                                                          ],
+                                                                                                                                                                                                                  "header": {
+                                                                                                                                                                                                                            "User-Agent": "okhttp/4.1.0"
+                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                          }
+                                                                                                                                                                                                                                              },
 {
       "name": "解析聚合",
       "type": 3,
