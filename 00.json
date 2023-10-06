@@ -28,6 +28,8 @@
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/douban.js"
     },
+    { "key": "路人", "name": "🏃路人┃秒播", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mp4.ghlyys.com:916/api.php/app/"},
+    
 {"key":"酷云77","name":"酷云77","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
 
     {
