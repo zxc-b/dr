@@ -82,6 +82,16 @@ CCTV13 新闻,http://anren.live/HK/BSJE.m3u8
 CCTV13 新闻,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240502_1/encoder/0/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614vXukv%2Bllu6MCULXDoxJ6upZMyB3BTGL8Fz1cBrzuGpUOEVg8724ObgLgS2tj%2FSq8xWZ1p4rvSaCId2u7KLjn%2F46Kf00Xa0UUCbNAV9EWdHyJMhivxx1S8fcvB8Encq%2Br2%2FNnfOdizLLGdg97cAjQVBrJ5ycvSCIUdxWiGJJfFI3hgreSH2tPUplkub%2BeFttIQ%3D%3D&USERTOKEN=OcdSKDHIYJi7z1i4zpgoeOB0O2BhR0KR
 CCTV13 新闻,http://hls.hsrtv.cn/live/hsyouxian.m3u8
 CCTV13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV15 音乐,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
+CCTV15 音乐,http://221.213.43.82:8888/newlive/live/hls/17/live.m3u8
+CCTV15 音乐,http://lu1.cc/itv/php/gudou.php?id=cctv15hd
+CCTV15 音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
+CCTV15 音乐,http://lu1.cc/itv/php/cqyx.php?id=cctv15
+CCTV15 音乐,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2000205003.m3u8
+CCTV15 音乐,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000133
+CCTV15 音乐,http://39.134.61.219/PLTV/88888888/224/3221226855/index.m3u8
+CCTV15 音乐,http://125.210.152.19:9120/live/hzgq-cctvmusicgq-h264.m3u8
+CCTV15 音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 河北经济,https://event.pull.hebtv.com/jishi/jingjishenghuo.m3u8
 河北都市,https://event.pull.hebtv.com/jishi/dushipindao.m3u8
 河北影视,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
