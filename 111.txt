@@ -82,16 +82,17 @@ CCTV13 新闻,http://anren.live/HK/BSJE.m3u8
 CCTV13 新闻,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240502_1/encoder/0/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614vXukv%2Bllu6MCULXDoxJ6upZMyB3BTGL8Fz1cBrzuGpUOEVg8724ObgLgS2tj%2FSq8xWZ1p4rvSaCId2u7KLjn%2F46Kf00Xa0UUCbNAV9EWdHyJMhivxx1S8fcvB8Encq%2Br2%2FNnfOdizLLGdg97cAjQVBrJ5ycvSCIUdxWiGJJfFI3hgreSH2tPUplkub%2BeFttIQ%3D%3D&USERTOKEN=OcdSKDHIYJi7z1i4zpgoeOB0O2BhR0KR
 CCTV13 新闻,http://hls.hsrtv.cn/live/hsyouxian.m3u8
 CCTV13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+河北经济,https://event.pull.hebtv.com/jishi/jingjishenghuo.m3u8
+河北都市,https://event.pull.hebtv.com/jishi/dushipindao.m3u8
+河北影视,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
+河北公共,https://event.pull.hebtv.com/jishi/gonggongpindao.m3u8
+810
+河北农民,https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
+811
+河北经济,http://live.hyxrmt.com:85/live/xwpd.m3u8
 河北都市,http://cyz32.livehbindex.hbcatv.cn/live/50000020072541118d32f3491df3fd31.m3u8?bitrate=2300&pt=5
-
 河北公共,http://cyz32.livehbindex.hbcatv.cn/live/50000020f9834d34b527dec2d5ad8bb5.m3u8?bitrate=2300&pt=5
-
-河北经济生活,http://cyz32.livehbindex.hbcatv.cn/live/50000020b7644f6784ae6c6eb82d7665.m3u8?bitrate=2300&pt=5
-
-河北科教,http://cyz32.livehbindex.hbcatv.cn/live/500000206980450095b990d63f377cea.m3u8?bitrate=2300&pt=5
-
+河北经济,http://cyz32.livehbindex.hbcatv.cn/live/50000020b7644f6784ae6c6eb82d7665.m3u8?bitrate=2300&pt=5
 河北农民,http://cyz32.livehbindex.hbcatv.cn/live/500000202fa64c9bac01e09eaf06afd8.m3u8?bitrate=2300&pt=5
-
 河北卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020d6be4c4ba70a4e3261b14544.m3u8?bitrate=2300&pt=5
-
-河北影视剧,http://cyz32.livehbindex.hbcatv.cn/live/50000020b87d48a78fc68b1f51e8a926.m3u8?bitrate=2300&pt=5
+河北影视,http://cyz32.livehbindex.hbcatv.cn/live/50000020b87d48a78fc68b1f51e8a926.m3u8?bitrate=2300&pt=5
