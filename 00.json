@@ -1,11 +1,11 @@
 {
 "spider":"./jar/fan.txt;md5;5388d60fb0519fa359339c3252fa5e69",
-"wallpaper":"http://饭太硬.top/深色壁纸/api.php",
+"wallpaper":"往后余生‖永不言败",
 
 "sites":[
     {
       "key": "豆豆",
-      "name": "🌕中秋团圆夜 明月照福缘",
+      "name": "往后余生‖永不言败",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
