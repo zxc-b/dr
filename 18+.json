@@ -16,11 +16,11 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "warningText": "2023-08-24更新接口，每次打开记得长按主页刷新！",
+  "warningText": "往后余生  永不言败",
   "sites": [
     {
       "key": "搜索┃豆瓣js",
-      "name": "🎯┃豆瓣【长按主页刷新】",
+      "name": "往后余生‖永不言败",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
       "ext": "https://pan.shangui.cc/f/54MbUA/douban.js"
